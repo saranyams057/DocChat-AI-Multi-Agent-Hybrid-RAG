@@ -53,6 +53,15 @@ DocChat follows a **verification-driven multi-agent pipeline**:
 - Ensures factual consistency before final output
 
 ---
+## 🎥 Demo Video
+
+Click below to watch the project demo:
+
+[▶️ Watch DocChat Demo](./docchat-demo.mp4)
+
+In the demo video above, DocChat was tested with two documents. The first is the Google 2024 Environmental Report, a large document spanning 86 pages with numerous images and tables. The second is the DeepSeek-R1 Technical Report, which, while not as extensive as the first, still contains a significant number of diagrams and tables.
+
+As demonstrated, DocChat accurately retrieves relevant answers from both documents. Below, you can see the extracted portions containing the correct information. You can also check these documents out yourselves to verify the information.
 
 ## 🧠 Why Not a Single LLM?
 
