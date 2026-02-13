@@ -56,7 +56,7 @@ DocChat follows a **verification-driven multi-agent pipeline**:
 ## 🎥 Demo Video
 
 Click below to watch the project demo:
-
+![Demo](./docchat-demo.mp4)
 [▶️ Watch DocChat Demo](./docchat-demo.mp4)
 
 In the demo video above, DocChat was tested with two documents. The first is the Google 2024 Environmental Report, a large document spanning 86 pages with numerous images and tables. The second is the DeepSeek-R1 Technical Report, which, while not as extensive as the first, still contains a significant number of diagrams and tables.
