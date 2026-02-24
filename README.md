@@ -18,6 +18,9 @@ Unlike traditional single-LLM chatbots, DocChat combines **hybrid retrieval, mul
 - 🌐 Interactive Gradio-based UI  
 
 ---
+## Project overview
+### Below is a breakdown of DocChat's workflow
+!(images/demo.png)
 ## 🛠️ Tech Stack
 
 - **Docling** – Handles document ingestion, parsing, structured data extraction, and intelligent chunking of PDFs and complex documents (including tables and dense text).
