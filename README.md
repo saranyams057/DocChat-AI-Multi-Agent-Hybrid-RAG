@@ -88,7 +88,7 @@ DocChat solves this with:
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/your-username/DocChat-AI.git
+git clone https://github.com/saranyams057/DocChat-AI-Multi-Agent-Hybrid-RAG
 cd DocChat-AI
 pip install -r requirements.txt
 
